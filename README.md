@@ -9,9 +9,18 @@ Report Issues
 
 Todo List
 ---
-- [ ] Acro form
+- [ ] Acro form / Interactive Forms
+- [ ] Annotations
+- [ ] Opacity / Transparency
+- [ ] Digital Signatures
 - [ ] Outline
 - [ ] Type 3 font
+- [ ] Js
+- [ ] HTML
+- [ ] Password / Encryption
+- [ ] Free drawing
+- [ ] Multimedia Features
+- and more...
 
 Known Issues
 ---
