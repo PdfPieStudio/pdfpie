@@ -9,6 +9,7 @@ Report Issues
 
 Todo List
 ---
+- [ ] Page Rotation
 - [ ] Acro form / Interactive Forms
 - [ ] Annotations
 - [ ] Opacity / Transparency
