@@ -2,7 +2,8 @@
 
 *PDFPie is not an opensource project, this repository serves as a place for bug reports, feature requests, and general discussion.*
 
-### [Report Issues](#report-issues)
+Report Issues
+---
 
 - [Create a new issue here](https://github.com/PdfPieStudio/pdfpie/issues): Files that you upload will be **publicly accessible**.
 - Email us at [support@pdfpie.com](mailto:support@pdfpie.com): Only PDFPie staff members can access your files.
