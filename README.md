@@ -2,10 +2,10 @@
 
 *PDFPie is not an opensource project, this repository serves as a place for bug reports, feature requests, and general discussion.*
 
-Report Issues
----
+### [Report Issues](#report-issues)
+
 - [Create a new issue here](https://github.com/PdfPieStudio/pdfpie/issues): Files that you upload will be **publicly accessible**.
-- Email us at [support@pdfpie.com](mailto:support@pdfpie.com): Only PDFPie staffs can access your files.
+- Email us at [support@pdfpie.com](mailto:support@pdfpie.com): Only PDFPie staff members can access your files.
 
 Todo List
 ---
@@ -21,6 +21,12 @@ Todo List
 - [ ] Password / Encryption
 - [ ] Free drawing
 - [ ] Multimedia Features
+- [ ] Undo / Redo
+- [ ] Font subset
+- [ ] Merge PDF
+- [ ] Split PDF
+- [ ] X to PDF
+- [ ] PDF to X
 - and more...
 
 Known Issues
