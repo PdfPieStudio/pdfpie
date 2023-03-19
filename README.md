@@ -24,6 +24,7 @@ Todo List
 - [ ] Multimedia Features
 - [ ] Undo / Redo
 - [ ] Font subset
+- [ ] PDF 2.0
 - [ ] Merge PDF
 - [ ] Split PDF
 - [ ] X to PDF
