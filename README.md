@@ -11,6 +11,8 @@ Report Issues
 Todo List
 ---
 - [ ] Page Rotation
+- [ ] Add New Pages
+- [ ] Delete Pages
 - [ ] Acro form / Interactive Forms
 - [ ] Annotations
 - [ ] Opacity / Transparency
