@@ -13,6 +13,7 @@ Todo List
 - [ ] Page Rotation
 - [ ] Add New Pages
 - [ ] Delete Pages
+- [ ] Shortcuts
 - [ ] Acro form / Interactive Forms
 - [ ] Annotations
 - [ ] Opacity / Transparency
