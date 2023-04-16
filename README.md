@@ -28,7 +28,7 @@ Todo List
 - [ ] Undo / Redo
 - [ ] Font subset
 - [ ] PDF 2.0
-- [ ] Merge PDF
+- [x] Merge PDF
 - [ ] Split PDF
 - [ ] X to PDF
 - [ ] PDF to X
