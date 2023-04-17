@@ -10,6 +10,8 @@ Report Issues
 
 Todo List
 ---
+- [ ] PNG to PDF
+- [ ] JPG/JPEG to PDF
 - [ ] Page Rotation
 - [ ] Add New Pages
 - [ ] Delete Pages
@@ -28,7 +30,7 @@ Todo List
 - [ ] Undo / Redo
 - [ ] Font subset
 - [ ] PDF 2.0
-- [x] Merge PDF
+- [x] Merge PDF - https://pdfpie.com/merge-pdf.html
 - [ ] Split PDF
 - [ ] X to PDF
 - [ ] PDF to X
